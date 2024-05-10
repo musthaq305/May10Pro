@@ -6,8 +6,9 @@ public class Demo {
 		
 		System.out.println("success 1");
 		
+		System.out.println("success 2");
 		int a = 10;
 		System.out.println(a);
-		
+	
 	}
 }
